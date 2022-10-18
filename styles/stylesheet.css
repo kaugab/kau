@@ -1,11 +1,11 @@
-a{
+h1{
     color: green;
 }
 
 .text{
-
+    color:red
 }
 
-#titulo{
-
+#title{
+    font: verdana;
 }
